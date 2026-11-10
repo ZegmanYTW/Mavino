@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="t.me/LETPERFOMANCEE">
+  <a href="https://t.me/LETPERFOMANCEE">
     <img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://www.donationalerts.com/r/zegmanyt">
