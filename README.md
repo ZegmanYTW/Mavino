@@ -1,4 +1,4 @@
-  🎵 Mavino
+## 🎵 Mavino
 
 A modern local music player for Windows.
 
@@ -6,6 +6,8 @@ Mavino is a desktop music player designed to make listening to your local music 
 
 ✨ Features
 
+- 🎵Static text display
+- 🎶Synchronized text display
 - 🎧 Play local music files
 - 📂 Browse your music library
 - 🎨 Clean and modern interface
