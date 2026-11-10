@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="t.me/LETPERFOMANCEE">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.donationalerts.com/r/zegmanyt">
+    <img src="https://img.shields.io/badge/Support-DonationAlerts-FC4C4E?style=for-the-badge">
+  </a>
+</p>
+
 ## 🎵 Mavino
 
 A modern local music player for Windows.
@@ -41,11 +50,3 @@ You are free to use, modify, and distribute this software under the terms of the
   **Mavino — Your music. Your way.**
 </p>
 
-<p align="center">
-  <a href="t.me/LETPERFOMANCEE">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.donationalerts.com/r/zegmanyt">
-    <img src="https://img.shields.io/badge/Support-DonationAlerts-FC4C4E?style=for-the-badge">
-  </a>
-</p>
